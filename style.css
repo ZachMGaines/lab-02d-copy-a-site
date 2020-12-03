@@ -1,0 +1,115 @@
+body, html {
+    height: 100%;
+    
+}
+}
+
+main {
+    display: flex;
+    height: 100%;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    color: black;
+    border: 1px solid black;
+    text-align: left;
+
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    
+}
+
+.boxes {
+    width: 100%;
+    height: 100%;
+    grid-template-columns: 4;
+    
+    
+}
+
+footer {
+    width: 100%;
+    height: 100%;
+    border: 1px black solid;
+}
+
+div {
+
+}
+
+.introduction {
+    
+}
+
+.secrets {
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+    image-resolution: ;
+    
+}
+
+.stretch {
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+    image-resolution: ;
+}
+
+.music {
+    height:100%;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+}
+
+.support {
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.penguin-pic {
+    height: 200px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.music-pic {
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+.stretch-pic {
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+.secrets-pic {
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.airbnbpic {
+    height: 100%;
+    
+}
+
+.secret-text {
+    display: ;
+}
+
+.threebuttons {
+    
+}
